@@ -1,2 +1,2 @@
 # MyApp
-Aplicalção Simppes em React Native
+Aplicalção Simples em React Native
